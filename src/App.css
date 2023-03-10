@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 3rem;
+  text-align: center;
+  background-color: white;
+}
+
+
+.card {
+  padding: 3em;
+}
+
+.leaflet-container {
+  height: 40vh;
+}
+
